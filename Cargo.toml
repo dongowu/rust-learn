@@ -1,0 +1,13 @@
+[package]
+name = "helloworld"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#rand ="0.3"
+#log = "0.4.20"
+#time = "0.3.31"
+#regex = { version = "1.10.2", features = [] }
+num = "0.4.1"
